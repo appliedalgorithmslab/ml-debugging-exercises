@@ -54,6 +54,13 @@ Run an example:
 python data_leakage/broken_pipeline.py
 python data_leakage/fixed_pipeline.py
 ```
+## Setup
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Notes
 
