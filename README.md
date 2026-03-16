@@ -53,7 +53,10 @@ Run an example:
 ```bash
 python data_leakage/broken_pipeline.py
 python data_leakage/fixed_pipeline.py
+python class_imbalance/broken_training.py
+python wrong_metric/fixed_evaluation.py
 ```
+
 ## Setup
 
 Install dependencies:
